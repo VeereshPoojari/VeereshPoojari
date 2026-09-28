@@ -61,13 +61,63 @@ I enjoy building **complete production-ready applications**, reusable developer 
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 
-### Database
+### 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
 
-### Cloud, DevOps & Tools
+<br/><br/>
+
+`MySQL` • `Oracle Database` • `MongoDB`
+
+<br/>
+
+**Database Tools**
+
+`MySQL Workbench` • `MongoDB Compass` • `DBeaver`
+
+### ☁️ Cloud, DevOps & Developer Tools
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" />
+
+<br/><br/>
+
+**Development Tools**
+
+`Visual Studio Code` • `Eclipse` • `Spring Tool Suite (STS)`  
+`Postman` • `Git Bash` • `Git Tortoise` • `GitHub Desktop`  
+`Notepad++` • `MySQL Workbench` • `MongoDB Compass` • `DBeaver`  
+`WinMerge` • `Bitvise SSH Client`
+
+<br/>
+
+**AI Coding & Development Tools**
+
+`Claude Code` • `Antigravity` • `Codex` • `GPT` • `AI-Assisted Development`
+---
+
+<div align="center">
+
+## 🤖 AI-Assisted Development
+
+</div>
+
+I use modern AI coding tools as part of my development workflow for
+**code generation, debugging, refactoring, documentation, architecture exploration,
+testing and development productivity**.
+
+### AI Tools
+
+| Tool | Usage |
+|---|---|
+| **Claude Code** | AI-assisted coding, repository analysis and development |
+| **Codex** | AI-assisted coding and engineering tasks |
+| **GPT** | LLM-based development, problem solving and code assistance |
+| **Antigravity** | AI-assisted application development and coding workflows |
+
+### AI Engineering
+
+`LLM Applications` • `Prompt Engineering` • `AI Agents`  
+`RAG` • `Vector Databases` • `MCP` • `AI Coding Assistants`
 
 ### Other Technologies
 
